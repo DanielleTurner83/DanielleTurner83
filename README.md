@@ -6,14 +6,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/DanielleTurner83/Vulnerability-Management-Program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/DanielleTurner83/Program-Vulnerability-Remediations)**
-
-
+  
+## 🚨 Threat Hunting and Security Operations
 
 <hr/>
 <h2>🚨 Bank Application (Command Line Interface Using Python) </h2>
 
-<li><a href="https://github.com/DanielleTurner83/bank_app"><strong>Python Command Line Bank APP</strong></a></li>
+- <a href="https://github.com/DanielleTurner83/bank_app"><strong>Python Command Line Bank APP</strong></a>
 
          
 
