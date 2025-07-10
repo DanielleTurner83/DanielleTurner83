@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 <h2>🚨 Bank Application (Command Line Interface Using Python) </h2>
-<p style="margin-left: 20px;"><li><a href="https://example.com"><strong>Python Command Line Bank APP</strong></a></li></p>
+<p style="margin-left: 40px;"><li><a href="https://example.com"><strong>Python Command Line Bank APP</strong></a></li></p>
 
          
 
