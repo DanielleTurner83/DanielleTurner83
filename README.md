@@ -1,6 +1,6 @@
-# <a href="https://www.linkedin.com/in/danielle-turner7">Danielle Turner</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/danielle-turner7/">Danielle Turner</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I am a dedicated Software Engineer with over four years of experience developing robust applications in Java, Python, and JavaScript. I am now transitioning my career focus to cybersecurity, where I aim to leverage my programming expertise to enhance system defenses and protect critical assets.
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
 
 ## ⚠️ Vulnerability Management Projects
@@ -24,7 +24,7 @@ I am a dedicated Software Engineer with over four years of experience developing
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: www.linkedin.com/in/danielle-turner7
+[linkedin]: https://linkedin.com/in/___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
