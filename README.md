@@ -14,7 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 ## 🚨 Bank Application
-- **[Command Line Bank Application (Python)] (https://github.com/DanielleTurner83/bank_app)**
+- **[Command Line Bank Application (Python)] https://github.com/DanielleTurner83/bank_app
 
 ## 🤳 Connect With Me
 
