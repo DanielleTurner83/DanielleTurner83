@@ -13,8 +13,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
 <hr/>
-<h2>  🚨 Bank Application </h2>
-[Command Line Bank Application (Python)] https://github.com/DanielleTurner83/bank_app
+<h2>  🚨 Bank Application (Command Line Interface Using Python </h2>
+https://github.com/DanielleTurner83/bank_app
 
 ## 🤳 Connect With Me
 
