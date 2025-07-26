@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Vulnerability Management Program Implementation](https://github.com/DanielleTurner83/Vulnerability-Management-Program/tree/main)**
   
 ## 🚨 Threat Hunting and Security Operations
-- <strong>Coming Soon!</strong>
+- <strong>[Coming Soon!](https://github.com/DanielleTurner83/threat-hunting-scenario-tor)</strong>
 <hr/>
 <h2>🚨 Bank Application (Command Line Interface Using Python) </h2>
 
