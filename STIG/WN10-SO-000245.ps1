@@ -25,4 +25,18 @@
     PS C:\> .\__remediation_template(STIG-ID-WN10-SO-000245-).ps1 
 #>
 
-Set-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name "FilterAdministratorToken" -Value 1 -Type DWord
+# Set FilterAdministratorToken to 1 for STIG compliance
+$registryPath = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System"
+$valueName = "FilterAdministratorToken"
+$valueData = 1
+
+# Create the key if it doesn't exist
+if (-not (Test-Path $registryPath)) {
+    New-Item -Path $registryPath -Force | Out-Null
+}
+
+# Set the registry value
+Set-ItemProperty -Path $registryPath -Name $valueName -Value $valueData -Type DWord
+
+# Confirm the change
+Get-ItemProperty -Path $registryPath -Name $valueName
