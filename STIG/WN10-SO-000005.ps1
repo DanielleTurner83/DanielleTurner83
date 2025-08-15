@@ -27,5 +27,16 @@
 
 # Run as Administrator
 
-$admin = Get-LocalUser | Where-Object { $_.SID.Value -match '-500$' }
-Disable-LocalUser -Name $admin.Name
+# Find the built-in Administrator account using its well-known SID (-500)
+$AdminAccount = Get-LocalUser | Where-Object { $_.SID -like '*-500' }
+
+# Disable the account if it is enabled
+If ($AdminAccount.Enabled -eq $true) {
+    Disable-LocalUser -Name $AdminAccount.Name
+    Write-Host "The Administrator account has been disabled for STIG compliance."
+} else {
+    Write-Host "The Administrator account is already disabled."
+}
+
+# Verify the status
+Get-LocalUser | Where-Object { $_.SID -like '*-500' }
